@@ -13,6 +13,10 @@ file = "config/debugify.json"
 hash = "68ad55a8421814e6bd802b664244e40540a37eaf3ee8aded87fea53520d25d38"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "64a003fbfa5ea3fe5fcb7082249b8ead7d0a6cbc370277c4ff66b5d3e0f6ee74"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "efe1a41f42b1f136f7c4e529f070f0180a8f54589ba0f3cddbc0b355b51110c4"
 
@@ -85,6 +89,10 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
+file = "config/yosbr/config/create-client.toml"
+hash = "5d551c0170bbcb16eef473368c17d42a35b8eb5a4352021b19802532159d0f79"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
@@ -126,7 +134,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fac2b7b20eaa1b22340ff7afca7daf12e800cc9c520f632f9a0c1b4730211d2c"
+hash = "bd46ac750b5c5e5d60584b774b91dfa31fcf4faa2ac8034fb6e9eceed813b429"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -320,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a596d9e91d5782f46af3a616bed3b0789e0a3f3141a94d153cb4b7421f39646c"
+hash = "f055713960d45d3a96ba237939a60a6737c4dcb7a7c02600bc300265c34f1d74"
 metafile = true
 
 [[files]]
