@@ -17,14 +17,6 @@ file = "config/debugify.json"
 hash = "68ad55a8421814e6bd802b664244e40540a37eaf3ee8aded87fea53520d25d38"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "64a003fbfa5ea3fe5fcb7082249b8ead7d0a6cbc370277c4ff66b5d3e0f6ee74"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "bd46ac750b5c5e5d60584b774b91dfa31fcf4faa2ac8034fb6e9eceed813b429"
-
-[[files]]
 file = "config/fancymenu/config.txt"
 hash = "573323801ab15ff5bd70e5beacb9ffc54184dbcca313b24daff9e463da5a8fbd"
 
@@ -46,7 +38,7 @@ hash = "6022d6df31bbac4ed9f10d9f1f1fcaa21d5da950024835bb1d5822082e49d145"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
+hash = "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53"
 
 [[files]]
 file = "config/lithium.properties"
@@ -73,80 +65,88 @@ file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
-file = "defaultconfigs/NoChatReports/NCR-Client.json"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "547ab8638d23a570798766eda715653914d4fd34fd60317dbfeb62a3c51ba56f"
 
 [[files]]
-file = "defaultconfigs/NoChatReports/NCR-Common.json"
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
 
 [[files]]
-file = "defaultconfigs/NoChatReports/NCR-Encryption.json"
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "707e9af170cd9c9282d25bfb5f1a337039348636183564cfa1a86ebde52f48df"
 
 [[files]]
-file = "defaultconfigs/capes.json5"
+file = "config/yosbr/config/capes.json5"
 hash = "7de3087b5a435f770ed45b1b73ac9b37f3d36ab2fd71a1404d7a49e299738821"
 
 [[files]]
-file = "defaultconfigs/cem.conf"
+file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
-file = "defaultconfigs/create-client.toml"
+file = "config/yosbr/config/create-client.toml"
 hash = "5d551c0170bbcb16eef473368c17d42a35b8eb5a4352021b19802532159d0f79"
 
 [[files]]
-file = "defaultconfigs/cull-less-leaves.json"
+file = "config/yosbr/config/cull-less-leaves.json"
 hash = "f905b94a10cd01a281b422d7eda25a6850bd8e2d50997d640f223e43b5108262"
 
 [[files]]
-file = "defaultconfigs/dynamicfps.toml"
+file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
-file = "defaultconfigs/entity_texture_features.json"
+file = "config/yosbr/config/entity_texture_features.json"
 hash = "1656c1ce6af02cfb451541c7d5c938c51cc9e7aee962aee526c46f4be40cada3"
 
 [[files]]
-file = "defaultconfigs/holdthatchunk.json"
+file = "config/yosbr/config/holdthatchunk.json"
 hash = "acc20d0a92edcf0497ebb62c7c673a8d9c99d872890bb53027722390f453e9dc"
 
 [[files]]
-file = "defaultconfigs/iris.properties"
+file = "config/yosbr/config/iris.properties"
 hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
-file = "defaultconfigs/lambdabettergrass.toml"
+file = "config/yosbr/config/lambdabettergrass.toml"
 hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
 [[files]]
-file = "defaultconfigs/lambdynlights.toml"
+file = "config/yosbr/config/lambdynlights.toml"
 hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
 
 [[files]]
-file = "defaultconfigs/midnightcontrols.json"
+file = "config/yosbr/config/midnightcontrols.json"
 hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 
 [[files]]
-file = "defaultconfigs/midnightlib.json"
+file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
-file = "defaultconfigs/roughlyenoughitems/config.json5"
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "adde80b29632a6749aedc7196d680d4eb3660518c1825a79fd873639b6f3078e"
 
 [[files]]
-file = "defaultconfigs/sodium-options.json"
-hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "00e4ca4121b9700b5572fc1a9df25089f008769ef1263b29a47c637b0ac12122"
 
 [[files]]
-file = "defaultconfigs/tr7zwDonorSettings.json"
+file = "config/yosbr/config/sodium-options.json"
+hash = "02f8b740d03e1a5fb4354b6b6abfcf8716e99c51572e43f4feabf59837626faa"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
-file = "defaultconfigs/xaerominimap.txt"
+file = "config/yosbr/config/xaerominimap.txt"
 hash = "e4a2b4507278361c0fdee2446c4255f48c35cb2305693a7ee83163cdc8920161"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "3fc49c1a1bb79ad46b235ae0f3a1c177eb281d2c6dceb6019c480ccd64beca61"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -256,11 +256,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
 metafile = true
 
 [[files]]
@@ -571,4 +566,9 @@ metafile = true
 [[files]]
 file = "mods/yet-another-config-lib.pw.toml"
 hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
