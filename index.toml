@@ -46,7 +46,7 @@ hash = "6022d6df31bbac4ed9f10d9f1f1fcaa21d5da950024835bb1d5822082e49d145"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
+hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
 
 [[files]]
 file = "config/lithium.properties"
