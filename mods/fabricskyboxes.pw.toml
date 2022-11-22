@@ -1,6 +1,6 @@
 name = "FabricSkyboxes"
 filename = "fabricskyboxes-0.6.0+mc1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/t2tvlfIW/fabricskyboxes-0.6.0%2Bmc1.19.2.jar"

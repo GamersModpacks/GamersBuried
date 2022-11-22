@@ -1,6 +1,6 @@
 name = "FabricSkyBoxes Interop"
 filename = "fsb-interop-1.1.2+mc1.19.2-build.21.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/3vopnmpy/fsb-interop-1.1.2%2Bmc1.19.2-build.21.jar"

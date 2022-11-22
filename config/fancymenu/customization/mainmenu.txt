@@ -20,9 +20,9 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 2
-  width = 214
+  width = 275
   action = deep_customization_element:title_screen_branding
   actionid = f7b90646-20d4-45d9-b372-32900eb14dfb1668785285848
   y = 388
@@ -73,5 +73,24 @@ customization {
   actionid = d13eb4b1-5dfa-49be-87b3-1a2c5e88d87a1668785311067
   y = 45
   height = 64
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = config/fancymenu/resources/pack_version.txt
+  text_border = 2
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 5d317469-30c5-48cb-bfc8-bd1bfdbf8df91669108683220
+  y = -9
+  alignment = left
+  height = 9
 }
 

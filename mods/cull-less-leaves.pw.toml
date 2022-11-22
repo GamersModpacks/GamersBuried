@@ -1,6 +1,6 @@
 name = "Cull Less Leaves"
 filename = "CullLessLeaves-1.0.6.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/iG6ZHsUV/versions/H9oZ7N6p/CullLessLeaves-1.0.6.jar"
