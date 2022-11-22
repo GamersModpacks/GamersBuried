@@ -49,10 +49,6 @@ file = "config/fancymenu/resources/pack_version.txt"
 hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
 
 [[files]]
-file = "config/levelz.json5"
-hash = "e5ebac9695a3981577900bd07faf23f1c9be25364b35d1b9b186592dc3a50dfb"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "88b5f5715b8c5f4dcaee33af1cecea035a83163cc7b12a95b25b58b7b7e32be8"
 
@@ -298,6 +294,11 @@ hash = "b41e371121224024f82fcf0838bb34206b2eb55e42a7e46dddf1463b4f07a5aa"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "cb6dd941e8695bb82c9024f943542ed13f153879f076f02e3c1475bca39d8e6b"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0e0c461da2cb8a1dabdf2b0efd2bf754ba96229cfaec364291dce5ba6499c47f"
 metafile = true
@@ -338,11 +339,6 @@ hash = "283ca2f8b84b652e36c021fc82a27d97a23788be6fcfc6f60894ce6c0824263b"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon.pw.toml"
-hash = "02671a0b8438a70377afa56f78fe88ba82631d1138c889017ebac6ae249fdf57"
-metafile = true
-
-[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "c746212d765f3f4c414b59f954a98444485408fb2a393854cc04b67905e033db"
 metafile = true
@@ -365,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "caf5cf800e403f44a64813bf8f4263dd9743983d66a5fabb9bc03d4560996394"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "6eb1a887fa5f24ecf99346b8220dd19680be7140818007b18b7cc361aef1a8f9"
 metafile = true
 
 [[files]]
@@ -428,6 +419,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "ddff7afb6bbc74514412f913625611f387392a84fa1fa082e6f62c5dc574efc1"
 metafile = true
@@ -435,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "3e4e03f7d493eb522a8877bcab0e8e473072632005543fb8fa2f786c5502a9af"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "d5b2f9d8624b485a9730cc7ad5d73349e969231f40bc4afbc64a48ebff9b39c0"
 metafile = true
 
 [[files]]
@@ -478,6 +479,11 @@ hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "478cd1ce1a766d8d27a4c0b35eb630628117d997e11e2270d2dfe8eb3231a9bf"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot.pw.toml"
 hash = "1026cf917c08ef9d5a79f2b08a61da27ce34da466ff4b504d6a2cb9dd7c5645f"
 metafile = true
@@ -518,6 +524,11 @@ hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
+metafile = true
+
+[[files]]
 file = "mods/the-graveyard-biomes.pw.toml"
 hash = "ff84f377454989c3bb2932c1f27109235aaccba7f21d722fd2d1e24a2b398cc3"
 metafile = true
@@ -535,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "14a765976b1cd841fd5ea3a35c723ee44529921f08822a25ff7f83dbd26c8cc0"
 metafile = true
 
 [[files]]
