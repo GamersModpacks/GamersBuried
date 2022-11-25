@@ -9,6 +9,10 @@ file = "config/bclib/client.json"
 hash = "1004b4ac99650d0850dc6087ac34eed390e249193e21e43e7c9aa21b6a54129f"
 
 [[files]]
+file = "config/charm.toml"
+hash = "ec5974b436b45f44499faebef0c5d2b27529f5debe6786408c60e70ad45f3eba"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -54,7 +58,7 @@ hash = "6022d6df31bbac4ed9f10d9f1f1fcaa21d5da950024835bb1d5822082e49d145"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
+hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
 
 [[files]]
 file = "config/lithium.properties"
@@ -246,6 +250,11 @@ hash = "e30e0985c41aef2f58d0a657228f87e0cd3bdea47da839307845a5984840006d"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "aa15615acbfd6dafff5014e18b08dcb7add2d16f27b680e2990658c1c8c710a9"
 metafile = true
@@ -301,11 +310,6 @@ hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
 metafile = true
 
 [[files]]
-file = "mods/dynamicfps.pw.toml"
-hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
-metafile = true
-
-[[files]]
 file = "mods/enhancedblockentities.pw.toml"
 hash = "1f508f4f4394d2e75b5911765f0cdb316987892e9dfae123669a9e06d380a504"
 metafile = true
@@ -348,11 +352,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "173f85a293b5f5fa525213de66e6b4cfcc45f1010888029458a6dd4b4b848e9a"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
 metafile = true
 
 [[files]]
@@ -526,6 +525,11 @@ hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "d4e2b4012f363389d466eae43c8633a7987ddf8c3f589a6b4995f5b51d948748"
 metafile = true
@@ -572,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ffb60b34a189fb99645973751f4334b6e8cd22dfdc40cc10ff07c1bccbcc4e41"
+hash = "84fe9ae0da9782ad9c9925e2c92a3f26bfe4a1eacd23be32449b7ed0dc4d58dc"
 metafile = true
 
 [[files]]

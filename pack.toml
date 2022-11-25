@@ -1,12 +1,12 @@
 name = "GamersBuried"
 author = "Den4enko"
-version = "1.3"
+version = "1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "794085d2cfa22cac12e58062010d46273fcb7e3a2dfb24db792704d4b4571ef7"
+hash = "bee6ca28624a469f5e5cb55c25cd9071776b92a29e27dc457062c1a0bfc8a559"
 
 [versions]
 minecraft = "1.19.2"
