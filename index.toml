@@ -58,7 +58,7 @@ hash = "6022d6df31bbac4ed9f10d9f1f1fcaa21d5da950024835bb1d5822082e49d145"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
+hash = "f0b672321a89484f4da859ffc741bbfe8b5b693d387f7e05f84c5de625a1cc61"
 
 [[files]]
 file = "config/lithium.properties"
@@ -73,16 +73,12 @@ file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
 
 [[files]]
-file = "config/openloader/resources/Default-Dark-Mode-1.19-v1.3.4.zip"
-hash = "ed81ff011e2faf5569e86bbda0d2b7a7df106dbb0cb7669067e6c79dff1a475b"
+file = "config/openloader/resources/Dark Mode.zip"
+hash = "2d6f0f874c6fb898d220246b79bf4e51d77de94e509f9edbe0f0ef470e9d0051"
 
 [[files]]
 file = "config/openloader/resources/GamersBuried Resources/assets/inventorysorter/lang/ru_ru.json"
 hash = "3a8f46e93f873171a913ebc80cdbcdf415cae7340ad904c5290cdc0ef1ead892"
-
-[[files]]
-file = "config/openloader/resources/GamersBuried Resources/assets/inventorysorter/textures/gui/button.png"
-hash = "461454a0c77a6c307947612af698273a1334a32318d814df49063afc792e452b"
 
 [[files]]
 file = "config/openloader/resources/GamersBuried Resources/pack.mcmeta"
@@ -385,6 +381,11 @@ hash = "283ca2f8b84b652e36c021fc82a27d97a23788be6fcfc6f60894ce6c0824263b"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "4bcdc91e5cba57a8a294501268420f778febf8f9234d7c634a45bec4d6196495"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "c746212d765f3f4c414b59f954a98444485408fb2a393854cc04b67905e033db"
 metafile = true
@@ -452,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "f03b16c3f2edb0c3c70dd60b48d14623ac3e94c266ba6d13dbb3a004aa6dfd53"
+metafile = true
+
+[[files]]
+file = "mods/name-pain.pw.toml"
+hash = "60054a9fe8c6233416d9679da804a0138887403461e7bbd0d69873ba063a1f8c"
 metafile = true
 
 [[files]]
