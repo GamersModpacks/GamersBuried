@@ -306,6 +306,11 @@ hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities.pw.toml"
 hash = "1f508f4f4394d2e75b5911765f0cdb316987892e9dfae123669a9e06d380a504"
 metafile = true
