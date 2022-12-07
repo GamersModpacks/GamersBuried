@@ -11,8 +11,9 @@ tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
 chatPreview:false
-lang:ru_ru
 soundCategory_music:0.0
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_settings:key.keyboard.v
