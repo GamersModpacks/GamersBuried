@@ -1,6 +1,6 @@
 name = "Puzzle"
 filename = "puzzle-1.4.0-1.19.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3IuO68q1/versions/1.4.0-1.19/puzzle-1.4.0-1.19.jar"

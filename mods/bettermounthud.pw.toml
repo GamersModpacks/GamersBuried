@@ -1,6 +1,6 @@
 name = "Better Mount HUD"
 filename = "bettermounthud-1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/pRNvuggg/bettermounthud-1.2.0.jar"
