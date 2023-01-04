@@ -4,5 +4,8 @@
 
 
 # Exclude files
+.git/**
+.gitattributes
+.gitignore
 README.md
 GamersBuried.png
