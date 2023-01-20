@@ -3,11 +3,11 @@ filename = "nounusedchunks-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U8avpWmO/versions/GPTZMhxs/nounusedchunks-1.4.jar"
+url = "https://cdn.modrinth.com/data/U8avpWmO/versions/3iiQMpXR/nounusedchunks-1.4.jar"
 hash-format = "sha1"
-hash = "1d64786e0994c9565a589f45abe50c6da9e3f78c"
+hash = "98b91dfaf4acfd58442c8b459a918b592cd79429"
 
 [update]
 [update.modrinth]
 mod-id = "U8avpWmO"
-version = "GPTZMhxs"
+version = "3iiQMpXR"

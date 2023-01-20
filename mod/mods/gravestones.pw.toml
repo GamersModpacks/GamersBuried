@@ -1,13 +1,13 @@
 name = "Gravestones"
-filename = "gravestones-v1.13.jar"
+filename = "gravestones-v1.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ssUbhMkL/versions/DoolHsey/gravestones-v1.13.jar"
+url = "https://cdn.modrinth.com/data/ssUbhMkL/versions/D1RoGXmH/gravestones-v1.14.jar"
 hash-format = "sha1"
-hash = "2a204ce3422325f27f3b14f6970418c322af3229"
+hash = "f475bab50a374563cdab41ae74495a9e38cfcbe7"
 
 [update]
 [update.modrinth]
 mod-id = "ssUbhMkL"
-version = "DoolHsey"
+version = "D1RoGXmH"

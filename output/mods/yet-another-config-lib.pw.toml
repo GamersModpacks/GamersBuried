@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib"
-filename = "YetAnotherConfigLib-1.7.1.jar"
+filename = "YetAnotherConfigLib-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/mW3CVg5N/YetAnotherConfigLib-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/3EWbdCzX/YetAnotherConfigLib-2.2.0.jar"
 hash-format = "sha512"
-hash = "9c71c0b3b1ee8388f6a0fc3f1e07a5bf5fb63ce12c37248385c43a7cc29b8a540f75c25d3e64765f333812f37d47918a68e42b830391dca1e52f6f5f1c7540b4"
+hash = "3bf6d0012ba89347958d68fbf567f61b05433fc2c12b647fe244bbe91995489db3b402625696387ab7a52ea128f61abe3d3213ae35e56b32675c09739297dcad"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "mW3CVg5N"
+version = "3EWbdCzX"

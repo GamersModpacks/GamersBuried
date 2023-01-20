@@ -1,13 +1,13 @@
 name = "GamersBuried"
 author = "Gamers"
-version = "1.6"
+version = "2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e08035c495f3ae9b50d1c6b43f14f3f347a05b21dd8930c92377037e23ad7201"
+hash = "2342b45a4e9de98e5acd79282d03745f7b8355967a222addaa2782c24ae48f59"
 
 [versions]
 fabric = "0.14.12"
-minecraft = "1.19.2"
+minecraft = "1.19.3"
