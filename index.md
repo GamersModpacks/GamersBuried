@@ -2,7 +2,7 @@
 
 ## About:
 
- <img href="https://fabulously-optimized.github.io/" alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_vector.svg">
+[![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
 
 Have you ever wondered? Is it possible to survive buried underground?
 A modpack about exploring the mystical underworld, because of the solar apocalypse.
