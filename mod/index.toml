@@ -42,7 +42,7 @@ hash = "6022d6df31bbac4ed9f10d9f1f1fcaa21d5da950024835bb1d5822082e49d145"
 
 [[files]]
 file = "config/fancymenu/resources/pack_version.txt"
-hash = "ec6c168f4411ec8fa9ab8d47dd25954ce53728404fed0e7a9bc7f29dab38c30d"
+hash = "8f65223004a75f44404f485a1e84090699acef51f39de9411d6d9b377ae859a5"
 
 [[files]]
 file = "config/lithium.properties"
@@ -98,7 +98,7 @@ hash = "0fab025dc95158030fd090f78f9571d77ecb548010a8a61ccdec71da438f7699"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+hash = "843fefd7cf34bfe36b1fb2b6dc35ddfe44db53e23637d6b2674a7fb4e05e803f"
 metafile = true
 
 [[files]]
@@ -108,22 +108,22 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
 metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "f53f6e9fd20d04b26e04ad91b9cd541146d0691d4b463949c8192a9a706cce97"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
 metafile = true
 
 [[files]]
@@ -148,12 +148,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+hash = "c8e5d8df1d4425a8f2d6433794cc43fc8ca7515c1b62b626b617777be1b301b2"
 metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "bcdd37f1f10382a551f8b48e275cb39248ee340b0bc09ad5b6aaf21b9268193a"
+hash = "88e73c4da9aaa4bc7dbeda3c5822fc32f9233f997b2c05e3c509a2ba19bb16ff"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "16fc59591efb4837d79d0851af0284cafb7f886d5e595635206acb85129779b6"
+hash = "f166ca57d3ef337a367ce97b2fa7b90f4ad72769c133331b7a69e98eeb178298"
 metafile = true
 
 [[files]]
@@ -183,12 +183,12 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
+hash = "5ebaa368b8497942a070b4216a182d6850bbd1e6dd19390c34b47b07b5b0887f"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0717883870a50b4ae1cbbbc0b65de9106dfc49295a5eef8dbe3d5719db963f0b"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "29bf4b9e747ca85980f003a2d301e4d02f83886ecfeffc283d2742d4e774acc9"
+hash = "2045ed4e0218b8f51e318199cf2fe818bc5fa4b347a956552d88932c1f0095a3"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3ba971104b9f31d6f0dc31848ae6672e3cd6ac53416412e40e3f17a7c81bff8a"
+hash = "67a24992a28236ac55b0cf5500b52d2370b006ed6116dcb1eaaad94f1bfcfd12"
 metafile = true
 
 [[files]]
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
-hash = "0585e16a2962cffb2d629590d1d6c3655c030af41aa2213409879fc7dad8c3d6"
+hash = "60cee9c2c948640a65117362a3bc9d5cd126182d7e4ce88aafb3de4c511e7a67"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
+hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
 metafile = true
 
 [[files]]
@@ -278,12 +278,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d8c33633d54c2be5df1ab46f0b864a51079a4523f1df12bccfa908746c962cb4"
+hash = "14d20bc071d90b561dfc54fac81d1afcb425b124b227ed121ff5fb6997f6f159"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7f905853b279a34c95e4560eaeb1fedea47fd67abb623cbe1ff3f77159ff0c61"
+hash = "3aeb1c143a690ea52eb2318815a059c41c61b48a4ce98bcc41946726e991d7ad"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "79df5bab74e05c3f432462e6f1b63c6a67bc455d45698c11d70423e13a389489"
+hash = "ff80faf2979049f984eeafc518dccbc670933406016915d41c0d08967e23e191"
 metafile = true
 
 [[files]]
@@ -328,12 +328,12 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "8ae3b1e45feb1458fd7d9f2a776e917e7a1795add14b8699c2ef5ab9b7602588"
+hash = "d6def77eb9f932199c5c5480ac872bbc2ac6c42d709d5bc0dd1554289ecc40af"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
@@ -343,10 +343,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9140df52c99d19879399e11a47b5fca38aa578a08424bde829f32a77afd14e7e"
+hash = "a3375fd142e06deedd28c50d9dfc5ba8294121eac84b9c98d5a12a2475649aea"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "46bb4af64a3e00d1dbc690c1bce3b119c837e7b9f7f0d1bcd5f1466366c4da86"
+hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
 metafile = true

@@ -1,13 +1,13 @@
 name = "Icarus"
-filename = "icarus-1.13.jar"
+filename = "icarus-1.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/1.13/icarus-1.13.jar"
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/IFD7Mtvp/icarus-1.14.jar"
 hash-format = "sha1"
-hash = "905589a9c1bb64868fa3eaadb4c6562cf493ac61"
+hash = "3ebdb5578036b5833e3c842a7a147fe7696dd334"
 
 [update]
 [update.modrinth]
 mod-id = "Dw7M6XKW"
-version = "7JPS8XCK"
+version = "IFD7Mtvp"
